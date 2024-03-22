@@ -1,7 +1,7 @@
 /* Definindo a fonte personalizada */
 @font-face {
     font-family: 'thebold';
-    src: url(assets/thebold.ttf);
+    src: url(thebold.ttf);
 }
 
 /* Estilos globais do corpo do documento */
